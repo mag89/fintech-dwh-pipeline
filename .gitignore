@@ -1,0 +1,7 @@
+logs/
+*.jar
+target/
+.idea/
+*.iml
+.env
+__pycache__/
